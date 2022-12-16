@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="open_second_activity">>></string>
+    <string name="text_header">Message Received</string>
+    <string name="enter_your_message_here">Enter your message here</string>
+    <string name="button_back">Replay</string>
+    <string name="editText_second">Enter replay here</string>
+    <string name="text_header_reply">Reply Received</string>
+</resources>
